@@ -2,7 +2,7 @@
 
 This project shows the Connect 4 game (https://en.wikipedia.org/wiki/Connect_Four) implemented in Java using Swing for the graphical components.
 
-# Features
+## Features
 - Random player
 - AI player
 - Human player
